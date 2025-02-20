@@ -1,18 +1,62 @@
-# ¡Hola, soy Gerson Suarez! 👋
+# 👋 ¡Hola, soy Gerson Suarez!
 
-Soy estudiante de **Ingeniería en Software** en la Universidad Estatal de Milagro (UNEMI), especializado en desarrollo de aplicaciones web Full Stack.
+Soy **Ingeniero en Software** y estudiante en la **Universidad Estatal de Milagro** (UNEMI). Me apasiona la programación, la inteligencia artificial y la creación de soluciones innovadoras.
 
-🚀 Me apasiona aprender sobre inteligencia artificial, programación y el desarrollo de soluciones innovadoras.
+---
 
-## 🌱 Actualmente estoy trabajando en:
-- Proyecto de **Plataforma de Bienestar de las Plantas** usando React y sensores IoT.
-- **Chatbots** e inteligencia artificial aplicada a la web.
+## 🚀 Proyectos destacados
 
-## 🛠️ Tecnologías que manejo:
-- **Frontend**: React, Tailwind CSS, Next.js.
-- **Backend**: Node.js, Express.
-- **Bases de datos**: MongoDB, PostgreSQL.
-- **Otros**: Git, Docker, CI/CD.
+### 1. [GeoEduPortal](https://github.com/GersonSA01/GeoEduPortal)
+   Un portal interactivo donde se visualizan noticias a nivel mundial con un mapa interactivo usando **React** y **D3.js**.
 
-## 📈 Mis estadísticas
+### 2. [Plataforma de Bienestar de las Plantas](https://github.com/GersonSA01/PlataformaBienestar)
+   Proyecto para el monitoreo y bienestar de las plantas usando **IoT** y **React**.
+
+### 3. [Blackjack](https://github.com/GersonSA01/Blackjack)
+   Juego de **Blackjack** desarrollado con **React**, con un sistema de apuestas integrado.
+
+---
+
+## 🛠️ Tecnologías que manejo
+
+- **Frontend**: React, Next.js, Tailwind CSS
+- **Backend**: Node.js, Express
+- **Bases de datos**: MongoDB, PostgreSQL
+- **Otros**: Git, Docker, CI/CD, AWS
+
+---
+
+## 🖥️ Herramientas
+
+- **Editor de código**: VS Code
+- **Control de versiones**: Git, GitHub, GitLab
+- **Otros**: Postman, Figma
+
+---
+
+## 📈 Estadísticas de GitHub
+
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=GersonSA01&show_icons=true&theme=dark)
+
+---
+
+## 🏆 Logros
+
+- Segundo lugar en el Hackathon **UNEMI 2024**.
+- Contribuidor activo en varios proyectos de **Open Source**.
+
+---
+
+## 📫 Contáctame
+
+- [LinkedIn](https://www.linkedin.com/in/gersonsa01)
+- [Twitter](https://twitter.com/GersonSA01)
+- Correo: [gsuareza3@unemi.edu.ec](mailto:gsuareza3@unemi.edu.ec)
+
+---
+
+## 🌱 Actualmente estoy aprendiendo
+
+- **Machine Learning** y **Deep Learning**
+
+
