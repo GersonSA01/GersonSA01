@@ -9,12 +9,7 @@ Soy **Ingeniero en Software** y estudiante en la **Universidad Estatal de Milagr
 ### 1. [GeoEduPortal](https://github.com/GersonSA01/GeoEduPortal)
    Un portal interactivo donde se visualizan noticias a nivel mundial con un mapa interactivo usando **React** y **D3.js**.
 
-### 2. [Plataforma de Bienestar de las Plantas](https://github.com/GersonSA01/PlataformaBienestar)
-   Proyecto para el monitoreo y bienestar de las plantas usando **IoT** y **React**.
-
-### 3. [Blackjack](https://github.com/GersonSA01/Blackjack)
-   Juego de **Blackjack** desarrollado con **React**, con un sistema de apuestas integrado.
-
+...........
 ---
 
 ## 🛠️ Tecnologías que manejo
