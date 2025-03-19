@@ -16,7 +16,7 @@ Soy **Ingeniero en Software** y estudiante en la **Universidad Estatal de Milagr
 - **Frontend**: React, Next.js, Tailwind CSS
 - **Backend**: Node.js, Express
 - **Bases de datos**: MongoDB, PostgreSQL
-- **Otros**: Git, Docker, CI/CD, AWS
+- **Otros**: Git, Metodologías Ágiles, Gestión de Proyectos
 
 ---
 
@@ -36,21 +36,18 @@ Soy **Ingeniero en Software** y estudiante en la **Universidad Estatal de Milagr
 
 ## 🏆 Logros
 
-- Segundo lugar en el Hackathon **UNEMI 2024**.
-- Contribuidor activo en varios proyectos de **Open Source**.
+- Ocupé los primeros lugares en el Hackathon **UNEMI 2024**.
+- Contribuidor en varios proyectos de **Open Source**.
 
 ---
 
 ## 📫 Contáctame
 
-- [LinkedIn](https://www.linkedin.com/in/gersonsa01)
+- [LinkedIn](https://www.linkedin.com/in/gersonsa/)
 - [Twitter](https://twitter.com/GersonSA01)
 - Correo: [gsuareza3@unemi.edu.ec](mailto:gsuareza3@unemi.edu.ec)
 
 ---
 
-## 🌱 Actualmente estoy aprendiendo
-
-- **Machine Learning** y **Deep Learning**
 
 
