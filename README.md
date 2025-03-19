@@ -4,12 +4,11 @@ Soy **Ingeniero en Software** y estudiante en la **Universidad Estatal de Milagr
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Proyectos 
 
-### 1. [GeoEduPortal](https://github.com/GersonSA01/GeoEduPortal)
+### [GeoEduPortal](https://github.com/GersonSA01/GeoEduPortal)
    Un portal interactivo donde se visualizan noticias a nivel mundial con un mapa interactivo usando **React** y **D3.js**.
 
-...........
 ---
 
 ## 🛠️ Tecnologías que manejo
