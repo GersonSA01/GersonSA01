@@ -36,8 +36,6 @@ Soy **Ingeniero en Software** y estudiante en la **Universidad Estatal de Milagr
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=GersonSA01&show_icons=true&theme=dark)
-
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=GersonSA01&layout=compact&theme=dark)
 
 ---
@@ -49,7 +47,7 @@ Soy **Ingeniero en Software** y estudiante en la **Universidad Estatal de Milagr
 
 ---
 
-## 💌 Contáctame
+##  Contáctame
 
 - [LinkedIn](https://www.linkedin.com/in/gersonsa/)
 - [Twitter](https://twitter.com/GersonSA01)
